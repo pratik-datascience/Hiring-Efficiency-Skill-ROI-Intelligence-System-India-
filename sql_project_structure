@@ -1,0 +1,19 @@
+Hiring-Efficiency-SQL-Project/
+│
+├── 01_dataset/
+│   ├── companies.csv
+│   ├── employees.csv
+│   ├── skills.csv
+│   ├── employee_skills.csv
+│   ├── performance.csv
+│
+├── 02_schema/
+│   └── create_tables.sql
+│
+├── 03_analysis_queries/
+│   ├── hiring_efficiency.sql
+│   ├── skill_roi.sql
+│   ├── attrition_risk.sql
+│   ├── salary_fairness.sql
+│
+└── README.md
