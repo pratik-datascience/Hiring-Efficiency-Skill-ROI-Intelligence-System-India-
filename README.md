@@ -16,10 +16,15 @@ It demonstrates **end-to-end data analyst skills**, from database design to insi
 
 ## 🗂️ Project Structure
   01_problem_statement/ → Business questions
+  
   02_schema/ → ER diagram & schema
+  
   03_queries/ → SQL analysis (joins, CTEs, window functions)
+  
   04_results/ → Insights & recruiter summary
+  
   05_dataset/ → CSV datasets
+  
   06_outputs/ → Query output screenshots
 
 
