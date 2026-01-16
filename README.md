@@ -58,7 +58,7 @@ It demonstrates **end-to-end data analyst skills**, from database design to insi
 ---
 
 ## 🎯 Recruiter Takeaways
-📄 [Recruiter Takeaways](Result/recruiter_takeaways.md)
+📄 [Recruiter Takeaways](./Result/recruiter_takeaways.md)
 
 This project demonstrates:
 - Strong SQL and data modeling fundamentals
