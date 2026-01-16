@@ -1,19 +1,36 @@
-Hiring-Efficiency-SQL-Project/
+Hiring-Efficiency-Skill-ROI-SQL/
 │
-├── 01_dataset/
+├── 01_problem_statement/
+│   └── business_questions.md
+│
+├── 02_schema/
+│   ├── schema.sql
+│   └── er_diagram.png
+│
+├── 03_queries/
+│   ├── basic_queries.sql
+│   ├── joins_analysis.sql
+│   ├── kpi_metrics.sql
+│   └── advanced_insights.sql
+│
+├── 04_results/
+│   ├── insights_summary.md
+│   └── recruiter_takeaways.md
+│
+├── 05_dataset/
 │   ├── companies.csv
 │   ├── employees.csv
 │   ├── skills.csv
 │   ├── employee_skills.csv
-│   ├── performance.csv
-│
-├── 02_schema/
-│   └── create_tables.sql
-│
-├── 03_analysis_queries/
-│   ├── hiring_efficiency.sql
-│   ├── skill_roi.sql
-│   ├── attrition_risk.sql
-│   ├── salary_fairness.sql
+│   └── performance.csv
 │
 └── README.md
+06_outputs/
+│
+├── query_results/
+│   ├── skill_roi_output.png
+│   ├── attrition_analysis_output.png
+│   ├── salary_vs_performance.png
+│
+└── dashboards/
+    └── kpi_summary.png   (optional)
