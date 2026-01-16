@@ -47,7 +47,7 @@ It demonstrates **end-to-end data analyst skills**, from database design to insi
 ---
 
 ## 📊 Key Insights
-📄 **Detailed insights:** [Insights Summary](04_results/insights_summary.md)
+📄 **Detailed Insights:** [Insights Summary](./Result/insights_summary.md)
 
 **Highlights:**
 - Certain technical skills deliver higher ROI relative to salary
@@ -58,7 +58,7 @@ It demonstrates **end-to-end data analyst skills**, from database design to insi
 ---
 
 ## 🎯 Recruiter Takeaways
-📄 [Recruiter Takeaways](04_results/recruiter_takeaways.md)
+📄 [Recruiter Takeaways](Result/recruiter_takeaways.md)
 
 This project demonstrates:
 - Strong SQL and data modeling fundamentals
