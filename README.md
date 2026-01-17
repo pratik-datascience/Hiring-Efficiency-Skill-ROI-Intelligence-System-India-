@@ -1,12 +1,12 @@
-# 🚀 Hiring Efficiency & Skill-ROI Analysis (SQL)
+# Hiring Efficiency & Skill-ROI Analysis (SQL)
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes **hiring efficiency, skill return-on-investment (ROI), employee performance, and compensation effectiveness** using SQL.  
 It demonstrates **end-to-end data analyst skills**, from database design to insight generation.
 
 ---
 
-## 🎯 Business Questions
+## Business Questions
 - Which skills deliver the **highest performance per salary unit**?
 - Does **higher salary always lead to better performance**?
 - Are companies hiring efficiently based on **skill ROI**?
@@ -14,7 +14,7 @@ It demonstrates **end-to-end data analyst skills**, from database design to insi
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
   01_problem_statement/ → Business questions
   
   02_schema/ → ER diagram & schema
@@ -30,7 +30,7 @@ It demonstrates **end-to-end data analyst skills**, from database design to insi
 
 ---
 
-## 🧠 Database Design
+## Database Design
 - Normalized relational schema
 - Many-to-many relationship between employees and skills using a bridge table
 - Designed for scalability and real-world HR analytics
@@ -46,7 +46,7 @@ It demonstrates **end-to-end data analyst skills**, from database design to insi
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 📄 **Detailed Insights:** [Insights Summary](./Result/insights_summary.md)
 
 **Highlights:**
@@ -57,7 +57,7 @@ It demonstrates **end-to-end data analyst skills**, from database design to insi
 
 ---
 
-## 🎯 Recruiter Takeaways
+## Recruiter Takeaways
 📄 [Recruiter Takeaways](./Result/recruiter_takeaways.md)
 
 This project demonstrates:
@@ -67,13 +67,13 @@ This project demonstrates:
 
 ---
 
-## 📸 Query Outputs
-📁 Located in `06_outputs/query_results/`  
+## Query Outputs
+ Located in `06_outputs/query_results/`  
 Screenshots provide **evidence of SQL results**; queries are available in `03_queries/`.
 
 ---
 
-## 👤 Author
+## Author
 **Pratik Khobragade**  
 Aspiring Data Analyst | SQL & Analytics
 
