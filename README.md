@@ -39,7 +39,7 @@ It demonstrates **end-to-end data analyst skills**, from database design to insi
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 - SQL (Joins, CTEs, Window Functions, KPIs)
 - Relational Database Modeling
 - GitHub Markdown Documentation
