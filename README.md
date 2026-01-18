@@ -22,17 +22,17 @@ This project simulates a real-world HR analytics system, answering high-impact b
 
     This system answers questions that HR leaders, founders, and hiring managers actually care about:
   
-    !. Which skills generate the highest performance per salary unit?
+    * Which skills generate the highest performance per salary unit?
 
-    2. Are companies overpaying or hiring efficiently?
+    * Are companies overpaying or hiring efficiently?
 
-    3. Does higher salary guarantee better performance?
+    * Does higher salary guarantee better performance?
 
-    4. Which employees show early attrition risk?
+    * Which employees show early attrition risk?
 
-    5. How does city-level talent ROI differ across India?
+    * How does city-level talent ROI differ across India?
 
-    6. Is skill quantity or skill relevance more important?
+    * Is skill quantity or skill relevance more important?
 
 ---
 ## Key Analytical Themes
@@ -88,7 +88,7 @@ This project simulates a real-world HR analytics system, answering high-impact b
     Designed to resemble real HR and talent analytics databases
 
 ## ER Diagram:
-[Er Diagram]()
+[Er Diagram](Schema/Er_Diagram.png)
 ---
 
 ## Tools & Skills
