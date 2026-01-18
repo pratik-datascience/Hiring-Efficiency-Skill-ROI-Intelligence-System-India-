@@ -1,36 +1,27 @@
-Hiring-Efficiency-Skill-ROI-SQL/
+Hiring-Efficiency-Skill-ROI-Intelligence-System-India/
 │
-├── 01_problem_statement/
-│   └── business_questions.md
-│
-├── 02_schema/
-│   ├── schema.sql
-│   └── er_diagram.png
-│
-├── 03_queries/
-│   ├── basic_queries.sql
+├── Data/                     → Raw CSV datasets
+├── Schema/                   → ER diagram & database design
+├── Queries/                  → SQL analysis
 │   ├── joins_analysis.sql
-│   ├── kpi_metrics.sql
-│   └── advanced_insights.sql
+│   ├── cte_analysis.sql
+│   ├── window_functions.sql
+│   └── kpi_metrics.sql
 │
-├── 04_results/
+├── Query Output/
+│   └── Screenshot/           → Result screenshots
+│       ├── Advanced_Insights/
+│       ├── Cte_Analysis/
+│       ├── Kpi_Metrics/
+│       └── Windows_Function/
+│
+├── Result/                   → Business insights & summaries
 │   ├── insights_summary.md
 │   └── recruiter_takeaways.md
 │
-├── 05_dataset/
-│   ├── companies.csv
-│   ├── employees.csv
-│   ├── skills.csv
-│   ├── employee_skills.csv
-│   └── performance.csv
-│
+├── problem_statement/        → Business context & questions
 └── README.md
-06_outputs/
-│
-├── query_results/
-│   ├── skill_roi_output.png
-│   ├── attrition_analysis_output.png
-│   ├── salary_vs_performance.png
+
 │
 └── dashboards/
-    └── kpi_summary.png   (optional)
+    └── kpi_summary.png   
