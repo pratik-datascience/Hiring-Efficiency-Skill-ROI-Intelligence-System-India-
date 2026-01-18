@@ -1,6 +1,7 @@
  Advanced_Insights
 
-![Skill Creating High Performance](Advanced_Insights/skill_creating_high_performance.png)
+[Attrition Risk Score](Advanced_Insights/skill_creating_high_performance.png)
+
 
 
 
