@@ -1,8 +1,7 @@
-# Hiring Efficiency & Skill-ROI Analysis (SQL)
+#🇮🇳 Hiring Efficiency & Skill-ROI Intelligence System (SQL)
 
-## Project Overview
-This project analyzes **hiring efficiency, skill return-on-investment (ROI), employee performance, and compensation effectiveness** using SQL.  
-It demonstrates **end-to-end data analyst skills**, from database design to insight generation.
+##Project Overview
+This project simulates a real-world HR analytics system, answering high-impact business questions around hiring efficiency, skill ROI, compensation effectiveness, attrition risk, and talent distribution across companies and cities.
 
 ---
 
