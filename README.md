@@ -50,35 +50,29 @@ This project simulates a real-world HR analytics system, answering high-impact b
     City-Level Talent ROI – location-wise hiring effectiveness
 
 ## Project Structure
-
-  Hiring-Efficiency-Skill-ROI-Intelligence-System-India/
-│
-├── Data/                     → Raw CSV datasets
-
-├── Schema/                   → ER diagram & database design
-
-├── Queries/                  → SQL analysis
-
-│   ├── joins_analysis.sql
-│   ├── cte_analysis.sql
-│   ├── window_functions.sql
-│   └── kpi_metrics.sql
-
-│
-├── Query Output/
-│   └── Screenshot/           → Result screenshots
-│       ├── Advanced_Insights/
-│       ├── Cte_Analysis/
-│       ├── Kpi_Metrics/
-│       └── Windows_Function/
-
-│
-├── Result/                   → Business insights & summaries
-│   ├── insights_summary.md
-│   └── recruiter_takeaways.md
-│
-├── problem_statement/        → Business context & questions
-└── README.md
+    Hiring-Efficiency-Skill-ROI-Intelligence-System-India/
+    │
+    ├── Data/                     → Raw CSV datasets
+    ├── Schema/                   → ER diagram & database design
+    ├── Queries/                  → SQL analysis
+    │   ├── joins_analysis.sql
+    │   ├── cte_analysis.sql
+    │   ├── window_functions.sql
+    │   └── kpi_metrics.sql
+    │
+    ├── Query Output/
+    │   └── Screenshot/           → Result screenshots
+    │       ├── Advanced_Insights/
+    │       ├── Cte_Analysis/
+    │       ├── Kpi_Metrics/
+    │       └── Windows_Function/
+    │
+    ├── Result/                   → Business insights & summaries
+    │   ├── insights_summary.md
+    │   └── recruiter_takeaways.md
+    │
+    ├── problem_statement/        → Business context & questions
+    └── README.md
 
 
 ---
@@ -93,8 +87,8 @@ This project simulates a real-world HR analytics system, answering high-impact b
 
     Designed to resemble real HR and talent analytics databases
 
-**ER Diagram:** `02_schema/er_diagram.png`
-
+## ER Diagram:
+[Er Diagram]()
 ---
 
 ## Tools & Skills
