@@ -1,6 +1,6 @@
  Advanced_Insights
 
-![Skill Creating High Performance](screenshots/skill_roi.png)
+![Skill Creating High Performance]([screenshots/skill_roi.png](https://github.com/pratik-datascience/Hiring-Efficiency-Skill-ROI-Intelligence-System-India-/blob/ef7be3e150f540b79b9dc690216ff5a75b69ca36/Query%20Output/Screenshot/Advanced_Insights/skill_creating_high_performance.png))
 
    AWS and Azure clearly lead, showing cloud skills produce the highest number of top performers, followed by AI and data skills.
    Core analytics tools (Excel, SQL, Python) remain important but contribute to fewer high performers compared to cloud and AI expertise.
