@@ -1,5 +1,6 @@
  Advanced_Insights
-
+ 
+🔹 Skill Creating High Performance
 [Skill Creating High Performance](Advanced_Insights/skill_creating_high_performance.png)
    AWS and Azure clearly lead, showing cloud skills produce the highest number of top performers, followed by AI and data skills.
    Core analytics tools (Excel, SQL, Python) remain important but contribute to fewer high performers compared to cloud and AI expertise.
@@ -45,8 +46,8 @@
 [City Level Talent Ranking](Windows_Function/city_level_talent_ranking.png)
 * Chennai and Gurgaon lead in talent ROI, delivering higher performance per salary unit, while other cities show closely clustered efficiency, indicating comparable hiring value across locations.
 
-![Rank Employees by Salary Within Company](Windows_Function/rank_employees_by_salary_within_company.png)
+[Rank Employees by Salary Within Company](Windows_Function/rank_employees_by_salary_within_company.png)
 * This output ranks employees by salary within each company, highlighting top-paid roles and revealing internal pay hierarchy across different job functions.
 
-![Skill Count Vs Performance Trend](Windows_Function/skill_count_VS_performance_trend.png)
+[Skill Count Vs Performance Trend](Windows_Function/skill_count_VS_performance_trend.png)
 * The output shows that higher skill count does not consistently lead to higher performance, with several employees having multiple skills but average ratings, indicating quality of skills matters more than quantity.
