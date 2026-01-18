@@ -1,6 +1,6 @@
-#🇮🇳 Hiring Efficiency & Skill-ROI Intelligence System (SQL)
+# 🇮🇳 Hiring Efficiency & Skill-ROI Intelligence System (SQL)
 
-##Project Overview
+## Project Overview
 This project simulates a real-world HR analytics system, answering high-impact business questions around hiring efficiency, skill ROI, compensation effectiveness, attrition risk, and talent distribution across companies and cities.
 
 ---
