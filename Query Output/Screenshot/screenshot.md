@@ -6,7 +6,7 @@
 
 # Cte_Analysis
 
-![Attrition Risk Score](screenshots/skill_roi.png)
+[Attrition Risk Score](Cte_Analysis/attrition_risk_score.png)
 
 * Employees with low performance ratings (2) consistently show high attrition risk, while ratings 4–5 strongly align with low attrition risk,
   regardless of salary level.
