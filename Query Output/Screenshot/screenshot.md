@@ -34,8 +34,6 @@
 
 🔹 [Skill_Density_Impact](Kpi_Metrics/skill_density_impact.png)
 
-    Skill Count vs Performance Insight
-
     Performance improves when employees have up to 3 skills, but adding more skills does not guarantee higher ratings, indicating diminishing returns     beyond an optimal skill count.
   
 🔹 [Skill_Roi](Kpi_Metrics/skill_roi_score.png)
