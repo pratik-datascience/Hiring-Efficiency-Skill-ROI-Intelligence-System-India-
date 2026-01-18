@@ -1,9 +1,9 @@
-<img width="338" height="618" alt="image" src="https://github.com/user-attachments/assets/d255dcb5-6238-435e-b648-0d3ce8a9402a" /># Advanced_Insights
+ Advanced_Insights
 
 ![Skill Creating High Performance](screenshots/skill_roi.png)
 
-* AWS and Azure clearly lead, showing cloud skills produce the highest number of top performers, followed by AI and data skills.
-* Core analytics tools (Excel, SQL, Python) remain important but contribute to fewer high performers compared to cloud and AI expertise.
+   AWS and Azure clearly lead, showing cloud skills produce the highest number of top performers, followed by AI and data skills.
+   Core analytics tools (Excel, SQL, Python) remain important but contribute to fewer high performers compared to cloud and AI expertise.
 
 # Cte_Analysis
 
