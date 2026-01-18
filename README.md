@@ -9,9 +9,13 @@ This project simulates a real-world HR analytics system, answering high-impact b
 ## Why This Project Stands Out
 
 ✔ Goes beyond basic SQL queries
+
 ✔ Focuses on decision-making KPIs, not just data extraction
+
 ✔ Uses CTEs, Window Functions, and advanced aggregations
+
 ✔ Designed like a real analytics system, not an assignment
+
 ✔ Clean documentation tailored for recruiters and interviewers
 
 ## Business Problems Solved
@@ -29,20 +33,47 @@ Which employees show early attrition risk?
 How does city-level talent ROI differ across India?
 
 Is skill quantity or skill relevance more important?
+
 ---
+## Key Analytical Themes
+
+Hiring Efficiency Index – performance delivered per salary unit
+
+Skill ROI Score – value created by each skill per ₹1L salary
+
+Attrition Risk Scoring – performance-based risk indicators
+
+Performance Deviation Analysis – employee vs company benchmarks
+
+Skill Density Impact – diminishing returns of multi-skilling
+
+City-Level Talent ROI – location-wise hiring effectiveness
 
 ## Project Structure
-  01_problem_statement/ → Business questions
-  
-  02_schema/ → ER diagram & schema
-  
-  03_queries/ → SQL analysis (joins, CTEs, window functions)
-  
-  04_results/ → Insights & recruiter summary
-  
-  05_dataset/ → CSV datasets
-  
-  06_outputs/ → Query output screenshots
+
+  Hiring-Efficiency-Skill-ROI-Intelligence-System-India/
+│
+├── Data/                     → Raw CSV datasets
+├── Schema/                   → ER diagram & database design
+├── Queries/                  → SQL analysis
+│   ├── joins_analysis.sql
+│   ├── cte_analysis.sql
+│   ├── window_functions.sql
+│   └── kpi_metrics.sql
+│
+├── Query Output/
+│   └── Screenshot/           → Result screenshots
+│       ├── Advanced_Insights/
+│       ├── Cte_Analysis/
+│       ├── Kpi_Metrics/
+│       └── Windows_Function/
+│
+├── Result/                   → Business insights & summaries
+│   ├── insights_summary.md
+│   └── recruiter_takeaways.md
+│
+├── problem_statement/        → Business context & questions
+└── README.md
 
 
 ---
@@ -52,7 +83,7 @@ Is skill quantity or skill relevance more important?
 - Many-to-many relationship between employees and skills using a bridge table
 - Designed for scalability and real-world HR analytics
 
-📌 **ER Diagram:** `02_schema/er_diagram.png`
+**ER Diagram:** `02_schema/er_diagram.png`
 
 ---
 
