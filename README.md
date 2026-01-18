@@ -1,16 +1,34 @@
 # 🇮🇳 Hiring Efficiency & Skill-ROI Intelligence System (SQL)
+  A business-driven SQL analytics project that evaluates how efficiently companies in India convert salary spend and skills into employee performance.
+
 
 ## Project Overview
 This project simulates a real-world HR analytics system, answering high-impact business questions around hiring efficiency, skill ROI, compensation effectiveness, attrition risk, and talent distribution across companies and cities.
 
 ---
+## Why This Project Stands Out
 
-## Business Questions
-- Which skills deliver the **highest performance per salary unit**?
-- Does **higher salary always lead to better performance**?
-- Are companies hiring efficiently based on **skill ROI**?
-- How do **industry and location** impact performance and attrition?
+✔ Goes beyond basic SQL queries
+✔ Focuses on decision-making KPIs, not just data extraction
+✔ Uses CTEs, Window Functions, and advanced aggregations
+✔ Designed like a real analytics system, not an assignment
+✔ Clean documentation tailored for recruiters and interviewers
 
+## Business Problems Solved
+
+This system answers questions that HR leaders, founders, and hiring managers actually care about:
+
+Which skills generate the highest performance per salary unit?
+
+Are companies overpaying or hiring efficiently?
+
+Does higher salary guarantee better performance?
+
+Which employees show early attrition risk?
+
+How does city-level talent ROI differ across India?
+
+Is skill quantity or skill relevance more important?
 ---
 
 ## Project Structure
