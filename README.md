@@ -54,12 +54,16 @@ City-Level Talent ROI – location-wise hiring effectiveness
   Hiring-Efficiency-Skill-ROI-Intelligence-System-India/
 │
 ├── Data/                     → Raw CSV datasets
+
 ├── Schema/                   → ER diagram & database design
+
 ├── Queries/                  → SQL analysis
+
 │   ├── joins_analysis.sql
 │   ├── cte_analysis.sql
 │   ├── window_functions.sql
 │   └── kpi_metrics.sql
+
 │
 ├── Query Output/
 │   └── Screenshot/           → Result screenshots
@@ -67,6 +71,7 @@ City-Level Talent ROI – location-wise hiring effectiveness
 │       ├── Cte_Analysis/
 │       ├── Kpi_Metrics/
 │       └── Windows_Function/
+
 │
 ├── Result/                   → Business insights & summaries
 │   ├── insights_summary.md
