@@ -87,8 +87,8 @@ This project simulates a real-world HR analytics system, answering high-impact b
 
     Designed to resemble real HR and talent analytics databases
 
-## ER Diagram:
-[Er Diagram](Schema/Er_Diagram.png)
+
+## [Er Diagram](Schema/Er_Diagram.png)
 ---
 
 ## Tools & Skills
@@ -134,8 +134,8 @@ This project simulates a real-world HR analytics system, answering high-impact b
 ---
 
 ## Query Outputs
-  Located in `06_outputs/query_results/`  
-  Screenshots provide **evidence of SQL results**; queries are available in `03_queries/`.
+  Located in [Query Output](Query%20Output)  
+  Screenshots provide **evidence of SQL results**; queries are available in [Queries](Queries)
 
 ---
 
