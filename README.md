@@ -50,29 +50,35 @@ This project simulates a real-world HR analytics system, answering high-impact b
     City-Level Talent ROI – location-wise hiring effectiveness
 
 ## Project Structure
-    Hiring-Efficiency-Skill-ROI-Intelligence-System-India/
-    │
-    ├── Data/                     → Raw CSV datasets
-    ├── Schema/                   → ER diagram & database design
-    ├── Queries/                  → SQL analysis
-    │   ├── joins_analysis.sql
-    │   ├── cte_analysis.sql
-    │   ├── window_functions.sql
-    │   └── kpi_metrics.sql
-    │
-    ├── Query Output/
-    │   └── Screenshot/           → Result screenshots
-    │       ├── Advanced_Insights/
-    │       ├── Cte_Analysis/
-    │       ├── Kpi_Metrics/
-    │       └── Windows_Function/
-    │
-    ├── Result/                   → Business insights & summaries
-    │   ├── insights_summary.md
-    │   └── recruiter_takeaways.md
-    │
-    ├── problem_statement/        → Business context & questions
-    └── README.md
+   Hiring-Efficiency-Skill-ROI-Intelligence-System-India/
+│
+├── 01_problem_statement/
+│   └── business_question.md
+│
+├── 02_schema/
+│   └── er_diagram.png
+│
+├── 03_data/
+│   └── employees.csv
+│
+├── 04_queries/
+│   ├── basic_queries.sql
+│   ├── window_functions.sql
+│   ├── cte_analysis.sql
+│   └── kpi_metrics.sql
+│
+├── 05_outputs/
+│   └── screenshots/
+│       ├── skill_roi.png
+│       └── hiring_efficiency.png
+│
+├── 06_insights/
+│   ├── recruiter_takeaways.md
+│   └── insights_summary.md
+│
+├── README.md
+└── structure.md
+
 
 
 ---
