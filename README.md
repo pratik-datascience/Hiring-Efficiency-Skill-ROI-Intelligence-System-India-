@@ -113,7 +113,7 @@ This project simulates a real-world HR analytics system, answering high-impact b
 ---
 
 ## Key Insights
-     **Detailed Insights:** [Insights Summary](./Result/insights_summary.md)
+[Insights Summary](Result/insights_summary.md)
 
     **Highlights:**
     - Certain technical skills deliver higher ROI relative to salary
